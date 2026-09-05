@@ -118,7 +118,7 @@ CHC影迷电影,http://47.104.178.59:3566/952383261
 CHC影迷电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chchd
 CHC影迷电影,http://111.228.4.117:6789/migu720p.php?id=952383261
 CHC影迷电影,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
-CHC影迷电影,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=202609050603090a0a59d32c22492c922c761ac34c3098&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260905060309&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20260905060309&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=31d897e25c87451f9c6fbea732279cc8
+CHC影迷电影,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=202609051003091da7bb3222dc43c5b8c270c22d0b0bfb&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260905100309&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20260905100309&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c2ee172a8fafdaac5c90dc5dac0ef07e
 CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 CHC影迷电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9817&tk=b53028476470
 淘电影,http://114.252.238.87:8000/udp/239.3.1.250:8001
